@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sanika Patil! 👋
 
-<!--
-**Sanika-patil25/Sanika-patil25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student specializing in Artificial Intelligence and Machine Learning (AI/ML).
 
-Here are some ideas to get you started:
+💻 I'm interested in software development, artificial intelligence, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm continuously learning new technologies and building my technical skills through practice and projects.
+
+## 🎯 My Goals
+
+- Build practical projects that solve real-world problems.
+- Improve my programming and problem-solving skills.
+- Explore Artificial Intelligence and Machine Learning.
+- Find opportunities to learn through internships and collaborative projects.
+
+## 🛠️ Technologies I'm Exploring
+
+- Python
+- Java
+- Machine Learning
+- Git and GitHub
+
+## 🚀 Projects
+
+I'm working toward building practical projects and sharing my learning journey here. Stay tuned for updates!
+
+## 🤝 Let's Connect
+
+Feel free to explore my repositories and follow my journey as I learn and grow in technology.
